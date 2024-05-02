@@ -21,7 +21,7 @@ This README provides a comprehensive list of resources including code and datase
 4. **Python Helper Scripts**
    - Description: Scripts for normalizing and formatting generated content.
    - Note: Code is not organized and commented. 
-   - The current repository.
+   - The current repository @\helper_scripts.
 
 ### Data Visualization Tools
 
