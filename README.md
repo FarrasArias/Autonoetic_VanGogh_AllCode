@@ -15,10 +15,13 @@ This README provides a comprehensive list of resources including code and datase
    - Repository: [iViz_Modular_RAG_VanGogh](https://github.com/FarrasAriasOrg/iViz_Modular_RAG_VanGogh/)
 
 3. **Van Gogh Bot Version 2**
-   - Note: Code is not organized and commented. (GitHub link missing)
+   - Note: Code is not organized and commented. 
+   - The current repository.
 
 4. **Python Helper Scripts**
-   - Description: Scripts for normalizing and formatting generated content. (GitHub link missing)
+   - Description: Scripts for normalizing and formatting generated content.
+   - Note: Code is not organized and commented. 
+   - The current repository.
 
 ### Data Visualization Tools
 
